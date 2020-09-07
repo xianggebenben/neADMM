@@ -9,9 +9,10 @@ The codes of this paper are in two folders:
 
 2. Application folder contains source codes for two applications: 
 
-For 1-bit compressive sensing, run the file main.m. 
+    (i). For 1-bit compressive sensing, run the file main.m. 
+  
 
-For vaccine adverse event detection, run the file main.m.
+    (ii). For vaccine adverse event detection, run the file main.m.
 
 ## Cite
 
