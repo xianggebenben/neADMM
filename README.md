@@ -20,7 +20,10 @@ Please cite our paper if you use this code in your own work:
 
 @article{wang2017nonconvex,
   title={Nonconvex Generalization of ADMM for Nonlinear Equality Constrained Problems},
+  
   author={Wang, Junxiang and Zhao, Liang},
+  
   journal={arXiv preprint arXiv:1705.03412},
+  
   year={2017}
 }
