@@ -1,11 +1,11 @@
 # neADMM: Nonconvex Generalization of ADMM for Nonlinear Equality Constrained Problems
-This is the Matlab source code of the nonlinear-equality Alternating Direction Method of Multipliers (neADMM).
+This is the implmentation  of the nonlinear-equality Alternating Direction Method of Multipliers (neADMM).
 
 ## How to Use
 
 The codes of this paper are in two folders:
 
-1. numerical examples folder contains two source files example1.m and example2.m.
+1. Numerical examples folder contains two source files example1.m and example2.m.
 
 2. Application folder contains source codes for two applications: 
 
