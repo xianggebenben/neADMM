@@ -1,4 +1,4 @@
-# neADMM: Nonconvex Generalization of ADMM for Nonlinear Equality Constrained Problems
+# neADMM: Nonconvex generalization of Alternating Direction Method of Multipliers for nonlinear equality constrained problems
 This is the implmentation  of the nonlinear-equality Alternating Direction Method of Multipliers (neADMM).
 
 ## How to Use
