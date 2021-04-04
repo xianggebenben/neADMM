@@ -23,7 +23,7 @@ pages = {100009},
 year = {2021},
 issn = {2666-7207},
 doi = {https://doi.org/10.1016/j.rico.2021.100009},
-url = {https://www.sciencedirect.com/science/article/pii/S2666720721000035},
+url = { https://www.sciencedirect.com/science/article/pii/S2666720721000035},
 author = {Junxiang Wang and Liang Zhao},
 keywords = {Nonconvex ADMM, Nonlinear equality constraints, Spherical constraints, Multi-instance learning},
 
